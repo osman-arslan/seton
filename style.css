@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+}
+
+header a {
+    color: green;
+    border: 10px;
+    border-radius: 10%;
+    background-color: azure;
+    box-shadow: none;
+}
+
+template li form header {
+    text-align: center;
+    color: blue;
+    background-color: beige;
+    box-shadow: 10px;
+}
+
+header a {
+    color: yellow;
+    background-color: black;
+    font-weight: bold;
+    text-shadow: 10px;
+}
+
+footer a {
+    color: white;
+    background-color: black;
+}
